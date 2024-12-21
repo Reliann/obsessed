@@ -1,2 +1,2 @@
-# obsessed
-My VScode theme
+# obsessed README
+For people obsessed with the color 

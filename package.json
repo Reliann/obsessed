@@ -1,0 +1,21 @@
+{
+  "name": "obsessed",
+  "displayName": "Obsessed",
+  "description": "Color theme for people who are obsessed with the color",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Obsessed-green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Obsessed-green-color-theme.json"
+      }
+    ]
+  }
+}
