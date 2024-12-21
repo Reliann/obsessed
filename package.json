@@ -15,6 +15,11 @@
         "label": "Obsessed-green",
         "uiTheme": "vs-dark",
         "path": "./themes/Obsessed-green-color-theme.json"
+      },
+      {
+        "label": "Obsessed-Ray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ray-Bday-theme.json"
       }
     ]
   }
