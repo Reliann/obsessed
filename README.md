@@ -1,4 +1,4 @@
-# obsessed README
+# obsessed - VScode Theme 
 For people obsessed with the color 
 
 
